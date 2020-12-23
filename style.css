@@ -14,7 +14,7 @@ body{
 }
 header{
     grid-area: header;
-    background-color: #2CC96E;
+    background-color: #ffffff;
     display: flex;
     justify-content: space-around;
     background-image: url("img/header-banner.png");
